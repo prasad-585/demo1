@@ -38,6 +38,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
 # Sample dataset
+print("my name is siva")
 data = {
     'URL_Length': [54, 23, 120, 45, 80, 150, 33, 90],
     'Special_Characters': [2, 0, 10, 1, 6, 15, 0, 7],
